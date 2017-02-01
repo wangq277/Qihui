@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "594E364C60F4A9646BE9D8B5919F6AB734B5F541",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "BB8273AB8C45DF4E640668DAA2A405748FDD220A" : 9223372036854775807,
+    "594E364C60F4A9646BE9D8B5919F6AB734B5F541" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "E33E7A96-1E74-458D-A047-E505B5E33FE0",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "BB8273AB8C45DF4E640668DAA2A405748FDD220A" : "..\/..\/..\/..",
+    "594E364C60F4A9646BE9D8B5919F6AB734B5F541" : "myFirstSketch\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "myFirstSketch",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "myFirstSketch.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/wangq277\/Qihui.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "594E364C60F4A9646BE9D8B5919F6AB734B5F541"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/wangq277\/root-folder.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "BB8273AB8C45DF4E640668DAA2A405748FDD220A"
+    }
+  ]
+}
